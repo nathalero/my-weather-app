@@ -8,15 +8,15 @@ function App() {
       <h1>
           WEATHER APP        </h1>
         <img src={logo} className="App-logo" alt="logo" />
-        
+        <p>By 
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          By Nathalie Lesmes Rodriguez
-        </a>
+           Nathalie Lesmes Rodriguez
+        </a></p>
       </header>
     </div>
   );
