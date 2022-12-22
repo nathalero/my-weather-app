@@ -5,7 +5,7 @@ function Header() {
 <div className="Header">
 <header className="Header">
     <h1>
-    Weather App
+    React Weather App
     </h1>
     </header>    
 </div>
