@@ -6,18 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
       <h1>
-          WEATHER APP        </h1>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>By 
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-           Nathalie Lesmes Rodriguez
-        </a></p>
-      </header>
+          Weather App with React
+     </h1>
+          </header>
+      <footer>
+      <p>Built By <a href="https://www.linkedin.com/in/nathalero/" target="_blank">Nathalie Lesmes Rodriguez</a> <br/> with React <br/> My <a href="https://github.com/nathalero" target="_blank"> Github</a> Repository</p>
+      </footer>
     </div>
   );
 }
