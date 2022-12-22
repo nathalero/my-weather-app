@@ -4,6 +4,7 @@ import "./Weather.css";
 export default function Weather(){
     return (
         <div className="Weather">
+            <div className="container">
             <form>
                 <input
                 type="search"
@@ -33,7 +34,8 @@ export default function Weather(){
                         <li> Wind: 13 Km/h</li>
                     </ul>
                 </div>
-            </div>
         </div>
-    )
+    </div>
+</div>
+)
 }
