@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Wroclaw" />
         <footer>
-          This Project was Coded by 
+          This Project was coded by 
           <a
           href="https://nathalero.netlify.app/"
           target="_blank"
