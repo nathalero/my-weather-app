@@ -14,7 +14,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
           > Nathalie Lesmes Rodriguez </a>
-          and is<br/> open-sourced on {" "} 
+          and is <br/> Open-Sourced on {" "} 
           <a
             href="https://github.com/nathalero"
             target="_blank"
